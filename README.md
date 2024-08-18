@@ -8,7 +8,7 @@ I'm currently Computer Science student in California State University, Long Beac
 
 * 🌍  I'm based in California, CA
 * ✉️  You can contact me at [delacruz.justin1223@gmail.com](mailto:delacruz.justin1223@gmail.com)
-* 🚀  I'm currently working on [A Game Jam Preparation Project](http://github.com/jdelacruz1223/Summer-Game-Mock)
+* 🚀  I'm currently working on [A Game for the 2024 GMTK Game Jam](https://github.com/jdelacruz1223/GMTK24)
 * 🧠  I'm learning C#, Unity, Project Management, Agile Frameworks, App Development
 * 🤝  I'm open to collaborating on programming, designing, and/or producing for game jams and indie games
 
