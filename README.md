@@ -14,25 +14,33 @@ I'm currently Computer Science student in California State University, Long Beac
 
 [Check out my team's submission for the GameMaker's Toolkit Game Jam 2024!](https://luqey.itch.io/gmtk-2024)
 
-I have 3 other games I've yet to format for public view. In the meantime, here are the repository links:
+I have 3 other games I've yet to format for public view and one in progress. In the meantime, here are the repository links:
 
 Personal Project: [2D Topdown Sword Guy](https://github.com/jdelacruz1223/jUnityGame) | A 2D Top-Down Perspective combat nearly entirely made by me (art too). 
 * Role: Sole Developer
 * Currently reworking to apply more Object Oriented principles that I learned recently!
 
-The XPlace Summer Game Jam 2024 Submission: [Vista](https://github.com/KaguraInig0/Summer-Game-Jam-2024) | A 2.5D Oregon Trail-inspired Road Trip game made by our team of 3 people in 7 days.
+The XPlace Summer Game Jam 2024 Submission: [Vista](https://github.com/KaguraInig0/Summer-Game-Jam-2024) | A 2.5D Oregon Trail-inspired Road Trip game, complete with random encounters on the road and walkable cities!
 * [The XPlace Game Jam Submission Page](https://app2.thexplace.ai/events/01HTNG5SD5V0EJBQC6Y4Z7AMKH/games/01HZDC29H1S1XHN4353RPH92AH?vipcode=Q_SGJ24)
-* Role: Gameplay & Level Designer, Sprite Artist, Gameplay Programmer 
+* Role: Gameplay & Level Designer, Sprite Artist, Gameplay Programmer
+* Time: 7 Days
 * I have a fork of this project that I used to train and familiarize our expanded team for the GMTK Jam.
   
-Quick Game Project: [Summer Mock Jam](https://github.com/jdelacruz1223/summer-mock-jam-1)
+Quick Game Project: [Summer Mock Jam](https://github.com/jdelacruz1223/summer-mock-jam-1) | A 2D Top-Down game of a golem fighting slimes on an elevator for as long as he can!
 * Role: Lead Programmer, Project Lead/Producer
+* Time: 24 Hours
 * My team and I did a mini mock game jam with a 24 hour time limit to test our team's individual and cooperative skills. Within this time, we made a game entirely from scratch, from idea phase to a first, playable build.
   
-GameMaker's Toolkit Game Jam 2024: [Stacking Spells](https://github.com/jdelacruz1223/GMTK24)
+GameMaker's Toolkit Game Jam 2024: [Stacking Spells](https://github.com/jdelacruz1223/GMTK24) | A 2D book-holding and spellcasting platformer that favors speed and precision!
 * Role: Project Lead/Producer
+* Time: 4 days
 * I teamed up with friends and connections of varying experience levels and spent two months training and managing this team to learn game development and agile, new skills for our roles, and team dynamics, all in preparation for the GMTK.
 * Link above for our itch.io page and download!
+
+CSULB VGDA Fall 2024 Game Jam: [This Means Business](https://github.com/WAVForm/FriedScallions) | A 2.5D tycoon game about a small cafe doing its best to keep up with a bigger cafe across the street. Work in progress!
+* Role: Project Lead/Producer
+* Time: 11 Weeks
+* Formed another team of club members to make a game during the fall semester. 
 
 <a href="https://www.github.com/jdelacruz1223" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jdelacruz1223?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
