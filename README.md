@@ -19,12 +19,15 @@ I have 3 other games I've yet to format for public view. In the meantime, here a
 Personal Project: [2D Topdown Sword Guy](https://github.com/jdelacruz1223/jUnityGame) | A 2D Top-Down Perspective combat nearly entirely made by me (art too). 
 * Role: Sole Developer
 * Currently reworking to apply more Object Oriented principles that I learned recently!
+
 The XPlace Summer Game Jam 2024 Submission: [Vista](https://github.com/KaguraInig0/Summer-Game-Jam-2024) | A 2.5D Oregon Trail-inspired Road Trip game made by our team of 3 people in 7 days.
 * Role: Gameplay & Level Designer, Sprite Artist, Gameplay Programmer 
 * I have a fork of this project that I used to train and familiarize our expanded team for the GMTK Jam.
+  
 Quick Game Project: [Summer Mock Jam](https://github.com/jdelacruz1223/summer-mock-jam-1)
 * Role: Lead Programmer, Project Lead/Producer
 * My team and I did a mini mock game jam with a 24 hour time limit to test our team's individual and cooperative skills. Within this time, we made a game entirely from scratch, from idea phase to a first, playable build.
+  
 GameMaker's Toolkit Game Jam 2024: [Stacking Spells](https://github.com/jdelacruz1223/GMTK24)
 * Role: Project Lead/Producer
 * I teamed up with friends and connections of varying experience levels and spent two months training and managing this team to learn game development and agile, new skills for our roles, and team dynamics, all in preparation for the GMTK.
