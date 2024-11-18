@@ -4,13 +4,30 @@ Hi 👋 My name is Justin Dela Cruz
 Game and App Developer | C# | C++
 ---------------------------------
 
-I'm currently Computer Science student in California State University, Long Beach working on achieving my Bachelor's Degree. I'm looking to join the game industry as my desired career, so most of my activities aside from school curriculum involves game development, such as participating game jams, modding and creating content for games, and working on passion game projects. On top of game development, I'm also delving a bit into app and software development, mostly to turn my Notion templates into their own functioning apps.
+I'm currently Computer Science student in California State University, Long Beach working on achieving my Bachelor's Degree. I'm looking to join the game industry as my desired career, so most of my activities aside from school curriculum involves game development, such as participating game jams, modding and creating content for games, and working on passion game projects. On top of game development, I'm also delving a bit into application and software development, mostly to turn my Notion templates into their own functioning apps.
 
 * 🌍  I'm based in California, CA
 * ✉️  You can contact me at [delacruz.justin1223@gmail.com](mailto:delacruz.justin1223@gmail.com)
-* 🚀  I'm currently working on [A Game for the 2024 GMTK Game Jam](https://github.com/jdelacruz1223/GMTK24)
-* 🧠  I'm learning C#, Unity, Project Management, Agile Frameworks, App Development
-* 🤝  I'm open to collaborating on programming, designing, and/or producing for game jams and indie games
+* 🚀  I'm currently working on a game for the Fall 2024 CSULB Video Game Development Association Game Jam (will launch by Dec. 6).
+* 🧠  I'm currently learning Python, C#, Unity, Godot, Project Management, Agile Frameworks, Application Development, and SDLC
+* 🤝  I'm open to collaborating on programming, designing, and/or producing for game jams and indie games!
+
+[Check out my team's submission for the GameMaker's Toolkit Game Jam 2024!](https://luqey.itch.io/gmtk-2024)
+
+I have 3 other games I've yet to format for public view. In the meantime, here are the repository links:
+Personal Project: [2D Topdown Sword Guy](https://github.com/jdelacruz1223/jUnityGame) | A 2D Top-Down Perspective combat nearly entirely made by me (art too). 
+* Role: Sole Developer
+* Currently reworking to apply more Object Oriented principles that I learned recently!
+The XPlace Summer Game Jam 2024 Submission: [Vista](https://github.com/KaguraInig0/Summer-Game-Jam-2024) | A 2.5D Oregon Trail-inspired Road Trip game made by our team of 3 people in 7 days.
+* Role: Gameplay & Level Designer, Sprite Artist, Gameplay Programmer 
+* I have a fork of this project that I used to train and familiarize our expanded team for the GMTK Jam.
+Quick Game Project: [Summer Mock Jam](https://github.com/jdelacruz1223/summer-mock-jam-1)
+* Role: Lead Programmer, Project Lead/Producer
+* My team and I did a mini mock game jam with a 24 hour time limit to test our team's individual and cooperative skills. Within this time, we made a game entirely from scratch, from idea phase to a first, playable build.
+GameMaker's Toolkit Game Jam 2024: [Stacking Spells](https://github.com/jdelacruz1223/GMTK24)
+* Role: Project Lead/Producer
+* I teamed up with friends and connections of varying experience levels and spent two months training and managing this team to learn game development and agile, new skills for our roles, and team dynamics, all in preparation for the GMTK.
+* Link above for our itch.io page and download!
 
 <a href="https://www.github.com/jdelacruz1223" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jdelacruz1223?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
