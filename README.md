@@ -1,7 +1,7 @@
 Hi 👋 My name is Justin Dela Cruz
 =================================
 
-Game and App Developer | C# | C++
+Game and App Developer | C# | Python | C++ | Java 
 ---------------------------------
 
 I'm currently Computer Science student in California State University, Long Beach working on achieving my Bachelor's Degree. I'm looking to join the game industry as my desired career, so most of my activities aside from school curriculum involves game development, such as participating game jams, modding and creating content for games, and working on passion game projects. On top of game development, I'm also delving a bit into application and software development, mostly to turn my Notion templates into their own functioning apps.
