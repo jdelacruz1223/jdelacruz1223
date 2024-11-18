@@ -21,6 +21,7 @@ Personal Project: [2D Topdown Sword Guy](https://github.com/jdelacruz1223/jUnity
 * Currently reworking to apply more Object Oriented principles that I learned recently!
 
 The XPlace Summer Game Jam 2024 Submission: [Vista](https://github.com/KaguraInig0/Summer-Game-Jam-2024) | A 2.5D Oregon Trail-inspired Road Trip game made by our team of 3 people in 7 days.
+* [The XPlace Game Jam Submission Page](https://app2.thexplace.ai/events/01HTNG5SD5V0EJBQC6Y4Z7AMKH/games/01HZDC29H1S1XHN4353RPH92AH?vipcode=Q_SGJ24)
 * Role: Gameplay & Level Designer, Sprite Artist, Gameplay Programmer 
 * I have a fork of this project that I used to train and familiarize our expanded team for the GMTK Jam.
   
