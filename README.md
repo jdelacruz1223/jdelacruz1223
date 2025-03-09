@@ -12,9 +12,7 @@ I'm currently Computer Science student in California State University, Long Beac
 * 🧠  I'm currently learning C++, C#, Unity, Project Management, Agile Frameworks, and WebApp Development
 * 🤝  I'm open to collaborating on programming, designing, and/or producing for game jams and indie games!
 
-[Check out my team's submission for the GameMaker's Toolkit Game Jam 2024!](https://luqey.itch.io/gmtk-2024)
-
-I have 3 other games I've yet to format for public view and one in progress. In the meantime, here are the repository links:
+[Check out my itch page too!](https://frooh.itch.io/)
 
 Personal Project: [Swordsman (itch.io)](https://frooh.itch.io/swordsman) | [Repo](https://github.com/jdelacruz1223/jUnityGame) | A 2D Top-Down Perspective combat nearly entirely made by me (art too). 
 * Role: Sole Developer
